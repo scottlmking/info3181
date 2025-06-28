@@ -1,0 +1,160 @@
+[
+  {
+    "Name": "EXCELLENCE 70% Cacoa Dark Chocolate Bar, 100g",
+    "GraphicName": "Lindt70PercentCacao.webp",
+    "CostPrice": 6.99,
+    "MSRP": 6.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Experience the perfect balance between sweetness and intensity with the Lindt EXCELLENCE 70% Cacao Dark Chocolate Bar.",
+    "Brand": "Lindt"
+  },
+  {
+    "Name": "EXCELLENCE Intense Mint Dark Chocolate Bar, 100g",
+    "GraphicName": "LindtMint.webp",
+    "CostPrice": 6.99,
+    "MSRP": 6.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Experience intense, mint-infused dark chocolate crafted with artisanal flair with the Lindt EXCELLENCE Intense Mint Dark Chocolate Bar.",
+    "Brand": "Lindt"
+  },
+  {
+    "Name": "EXCELLENCE Orange Intense Dark Chocolate Bar, 100g",
+    "GraphicName": "LindtOrange.webp",
+    "CostPrice": 6.99,
+    "MSRP": 6.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Experience a textural sensation with the Lindt EXCELLENCE Orange Intense Dark Chocolate Bar.",
+    "Brand": "Lindt"
+  },
+  {
+    "Name": "EXCELLENCE Roasted Almond Dark Chocolate Bar, 100g",
+    "GraphicName": "LindtRoastedAlmond.webp",
+    "CostPrice": 6.99,
+    "MSRP": 6.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Experience a textural sensation with the Lindt EXCELLENCE Roasted Almond Dark Chocolate Bar.",
+    "Brand": "Lindt"
+  },
+  {
+    "Name": "EXCELLENCE Raspberry Dark Chocolate Bar, 100g",
+    "GraphicName": "LindtRaspberry.webp",
+    "CostPrice": 6.99,
+    "MSRP": 6.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Experience an enchanting burst of fruit flavour with the Lindt EXCELLENCE Raspberry Dark Chocolate Bar.",
+    "Brand": "Lindt"
+  },
+  {
+    "Name": "Dark Chocolate Small Bar",
+    "GraphicName": "GodivaDarkChocolate.jpg",
+    "CostPrice": 3.99,
+    "MSRP": 3.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "For baking and self-treating, our luscious Solid Dark Chocolate Small Bars hit the spot.",
+    "Brand": "Godiva"
+  },
+  {
+    "Name": "Mint Dark Chocolate Bar",
+    "GraphicName": "GodivaMint.jpg",
+    "CostPrice": 3.99,
+    "MSRP": 3.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "For baking and self-treating, our luscious Mint Dark Chocolate Small Bars hit the spot.",
+    "Brand": "Godiva"
+  },
+  {
+    "Name": "Dark Chocolate Raspberry Bar",
+    "GraphicName": "GodivaRaspberry.jpg",
+    "CostPrice": 3.99,
+    "MSRP": 3.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Luscious dark chocolate meets refreshing raspberry in these delectable small bars.",
+    "Brand": "Godiva"
+  },
+  {
+    "Name": "Signature Roasted Almond Dark Chocolate Mini Bars",
+    "GraphicName": "GodivaRoastedAlmond.jpg",
+    "CostPrice": 3.99,
+    "MSRP": 3.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Rich and delicious, our individually wrapped Dark Chocolate Almond Mini Bars are a gourmet chocolate indulgence you can enjoy every day!",
+    "Brand": "Godiva"
+  },
+  {
+    "Name": "Signature 72% Cacao Dark Chocolate Mini Bars",
+    "GraphicName": "Godiva72PercentCacao.jpg",
+    "CostPrice": 3.99,
+    "MSRP": 3.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Indulge in a sweet treat of rich, decadent chocolate with our Dark Chocolate Mini Bars.",
+    "Brand": "Godiva"
+  },
+  {
+    "Name": "Dark 55% Chocolate Bar With Hazelnut, 90g",
+    "GraphicName": "FRDark55PercentWithHazelnut.avif",
+    "CostPrice": 5.99,
+    "MSRP": 5.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Created for those who love smooth dark chocolate to enjoy an irresistible combination of textures and flavours.",
+    "Brand": "Ferror Rocher"
+  },
+  {
+    "Name": "Dark 55% Chocolate Bar With Hazelnut And Salted Caramel Flavour, 90g",
+    "GraphicName": "FRDark55PercentWithHazelnutAndSaltedCaramel.avif",
+    "CostPrice": 5.99,
+    "MSRP": 5.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Created for those who love smooth dark chocolate.",
+    "Brand": "Ferror Rocher"
+  },
+  {
+    "Name": "Original Milk Chocolate Bar, 90g",
+    "GraphicName": "FROriginalMilk.avif",
+    "CostPrice": 5.99,
+    "MSRP": 5.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Created for all milk chocolate lovers to enjoy an irresistible combination of textures and flavours.",
+    "Brand": "Ferror Rocher"
+  },
+  {
+    "Name": "Milk Chocolate Bar With Hazelnut and Almond, 90g",
+    "GraphicName": "FRMilkWithHazelnutAndAlmond.avif",
+    "CostPrice": 5.99,
+    "MSRP": 5.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Created for all milk chocolate lovers to enjoy an irresistible combination of textures and flavours.",
+    "Brand": "Ferror Rocher"
+  },
+  {
+    "Name": "White Chocolate Bar With Hazelnut, 90g",
+    "GraphicName": "FRWhiteChocolateWithHazelnut.avif",
+    "CostPrice": 5.99,
+    "MSRP": 5.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "Created for all white chocolate bar lovers to enjoy an irresistible combination of textures and flavours.",
+    "Brand": "Ferror Rocher"
+  }
+
+
+
+
+
+
+
+
+]
