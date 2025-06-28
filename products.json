@@ -1,5 +1,6 @@
 [
   {
+    "Id": "L5X9B72QD4F18KG",
     "Name": "EXCELLENCE 70% Cacoa Dark Chocolate Bar, 100g",
     "GraphicName": "Lindt70PercentCacao.webp",
     "CostPrice": 6.99,
@@ -10,6 +11,7 @@
     "Brand": "Lindt"
   },
   {
+    "Id": "KZ3YQ7L1NVX54R2",
     "Name": "EXCELLENCE Intense Mint Dark Chocolate Bar, 100g",
     "GraphicName": "LindtMint.webp",
     "CostPrice": 6.99,
@@ -20,6 +22,7 @@
     "Brand": "Lindt"
   },
   {
+    "Id": "M81C6VR4ZQ9JTKF",
     "Name": "EXCELLENCE Orange Intense Dark Chocolate Bar, 100g",
     "GraphicName": "LindtOrange.webp",
     "CostPrice": 6.99,
@@ -30,6 +33,7 @@
     "Brand": "Lindt"
   },
   {
+    "Id": "JD29KLM7TQV83RY",
     "Name": "EXCELLENCE Roasted Almond Dark Chocolate Bar, 100g",
     "GraphicName": "LindtRoastedAlmond.webp",
     "CostPrice": 6.99,
@@ -40,6 +44,7 @@
     "Brand": "Lindt"
   },
   {
+    "Id": "N9QY48CBLX6J2VT",
     "Name": "EXCELLENCE Raspberry Dark Chocolate Bar, 100g",
     "GraphicName": "LindtRaspberry.webp",
     "CostPrice": 6.99,
@@ -50,6 +55,7 @@
     "Brand": "Lindt"
   },
   {
+    "Id": "TGK3XP59WL0NZQA",
     "Name": "Dark Chocolate Small Bar",
     "GraphicName": "GodivaDarkChocolate.jpg",
     "CostPrice": 3.99,
@@ -60,6 +66,7 @@
     "Brand": "Godiva"
   },
   {
+    "Id": "HY84N3MVRD15KJL",
     "Name": "Mint Dark Chocolate Bar",
     "GraphicName": "GodivaMint.jpg",
     "CostPrice": 3.99,
@@ -70,6 +77,7 @@
     "Brand": "Godiva"
   },
   {
+    "Id": "PZXKQR5813NT46M",
     "Name": "Dark Chocolate Raspberry Bar",
     "GraphicName": "GodivaRaspberry.jpg",
     "CostPrice": 3.99,
@@ -80,6 +88,7 @@
     "Brand": "Godiva"
   },
   {
+    "Id": "BVY3JLM47X2KZQA",
     "Name": "Signature Roasted Almond Dark Chocolate Mini Bars",
     "GraphicName": "GodivaRoastedAlmond.jpg",
     "CostPrice": 3.99,
@@ -90,6 +99,7 @@
     "Brand": "Godiva"
   },
   {
+    "Id": "RQ0TVNCJ8X52ZYL",
     "Name": "Signature 72% Cacao Dark Chocolate Mini Bars",
     "GraphicName": "Godiva72PercentCacao.jpg",
     "CostPrice": 3.99,
@@ -100,6 +110,7 @@
     "Brand": "Godiva"
   },
   {
+    "Id": "LKM94YXTRZ850QJ",
     "Name": "Dark 55% Chocolate Bar With Hazelnut, 90g",
     "GraphicName": "FRDark55PercentWithHazelnut.avif",
     "CostPrice": 5.99,
@@ -110,6 +121,7 @@
     "Brand": "Ferror Rocher"
   },
   {
+    "Id": "Y3TKD9F2LMNZ8QX",
     "Name": "Dark 55% Chocolate Bar With Hazelnut And Salted Caramel Flavour, 90g",
     "GraphicName": "FRDark55PercentWithHazelnutAndSaltedCaramel.avif",
     "CostPrice": 5.99,
@@ -120,6 +132,7 @@
     "Brand": "Ferror Rocher"
   },
   {
+    "Id": "WXJTFKL5N08R3QB",
     "Name": "Original Milk Chocolate Bar, 90g",
     "GraphicName": "FROriginalMilk.avif",
     "CostPrice": 5.99,
@@ -130,6 +143,7 @@
     "Brand": "Ferror Rocher"
   },
   {
+    "Id": "FQR9C27JMX6BLYV",
     "Name": "Milk Chocolate Bar With Hazelnut and Almond, 90g",
     "GraphicName": "FRMilkWithHazelnutAndAlmond.avif",
     "CostPrice": 5.99,
@@ -140,6 +154,7 @@
     "Brand": "Ferror Rocher"
   },
   {
+    "Id": "ZN3YX0KTVPL96RJ",
     "Name": "White Chocolate Bar With Hazelnut, 90g",
     "GraphicName": "FRWhiteChocolateWithHazelnut.avif",
     "CostPrice": 5.99,
